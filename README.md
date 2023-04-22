@@ -2,6 +2,8 @@
 
 Template for using vanilla HTML with Tailwind with almost no setup!
 
-Usage: git clone the repo and run "npm install"
+Usage -> run:
+- git clone https://github.com/Juane003/tailwind-html-template.git
+- npm install
 
-For applying changes there is a custom command on "package.json": "npm run tailwind
+For applying changes there is a custom command on "package.json": "npm run tailwind"
